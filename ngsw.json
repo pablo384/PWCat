@@ -21,6 +21,7 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
+        "/PWCat/assets/icon-128x128.png",
         "/PWCat/assets/icon-152x152.png",
         "/PWCat/assets/icon-256x256.png",
         "/PWCat/assets/icon-512x512.png"
@@ -31,12 +32,13 @@
   "dataGroups": [],
   "hashTable": {
     "/PWCat/inline.39b952beb23c0d6ff12b.bundle.js": "16a615b8b5c3ce71f0981ad341dcf2cfb56d9e93",
-    "/PWCat/assets/icon-152x152.png": "5cd18bc9ac1f17054b6b7f33bf98f89a01b490b4",
+    "/PWCat/assets/icon-128x128.png": "8be24d7bd2fc554dbdd0c4ef5fa22aec0e683183",
     "/PWCat/main.c849721e680a70a32a4e.bundle.js": "548d82db451f88c5345650d34c7f1cf0f555b7ba",
-    "/PWCat/assets/icon-256x256.png": "259227c8c748c932616c16acf16d0f89da37442a",
+    "/PWCat/assets/icon-152x152.png": "5cd18bc9ac1f17054b6b7f33bf98f89a01b490b4",
     "/PWCat/polyfills.61df7d7ec492d95bb0b2.bundle.js": "7d2dba7d2a7b633a9798f48a18a4dfa30b757560",
-    "/PWCat/assets/icon-512x512.png": "a569aa1eeb1fde74d3a1908afe4842a5b98c92af",
+    "/PWCat/assets/icon-256x256.png": "259227c8c748c932616c16acf16d0f89da37442a",
     "/PWCat/styles.7a1e0560bd9cc166d06d.bundle.css": "3a3db7f5027a96c59e8bed6edf93d309a53191a0",
+    "/PWCat/assets/icon-512x512.png": "a569aa1eeb1fde74d3a1908afe4842a5b98c92af",
     "/PWCat/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
     "/PWCat/index.html": "e8301a8ee2f0c9a0df14761180a4f7129b54b29e"
   }
